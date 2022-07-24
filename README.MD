@@ -2,7 +2,7 @@
 
 
 <!-- <p> -->
- <img src="assets/fotoGerador.jpeg"> <img src="assets/fotoGerador2.jpeg"  width="230">
+ <img src="assets/fotoGerador.JPG"> <img src="assets/fotoGerador2.JPG" >
 <!-- </p> -->
 
 
