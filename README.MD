@@ -2,7 +2,7 @@
 
 
 <!-- <p> -->
- <img src="assets/fotoGerador.JPG"> <img src="assets/fotoGerador2.JPG" >
+ <img src="assets/fotoGerador.JPG"> <img src="assets/fotoCopy.JPG">
 <!-- </p> -->
 
 
